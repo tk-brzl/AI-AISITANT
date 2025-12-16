@@ -16,7 +16,7 @@ os.makedirs(VECTOR_DB_PATH, exist_ok=True)
 os.makedirs(UPLOAD_DIR, exist_ok=True)
 
 # DeepSeek API配置
-DEEPSEEK_API_KEY = "sk-4f9d586425524f79a7621310ae1bcb47"  # 需要用户填写
+DEEPSEEK_API_KEY = "XXXXXXXX"  # 需要用户填写
 DEEPSEEK_API_BASE = "https://api.deepseek.com/v1"
 
 # 数据库配置
